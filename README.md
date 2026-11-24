@@ -1,4 +1,4 @@
-# Đồ án Máy học: Dự đoán khách hàng đồng ý gửi tiết kiệm có kỳ hạn
+# PROJECT MÁY HỌC: Dự đoán khách hàng đồng ý gửi tiết kiệm có kỳ hạn
 
 Đồ án cá nhân môn **Máy học** sử dụng bộ dữ liệu **Bank Marketing** để dự đoán khách hàng có đồng ý gửi tiết kiệm có kỳ hạn (`yes`/`no`) hay không. Mục tiêu là hỗ trợ ưu tiên danh sách khách hàng **trước khi gọi điện**.
 
